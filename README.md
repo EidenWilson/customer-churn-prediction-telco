@@ -1,4 +1,4 @@
-## 🌟 5. Business Interpretation & Recommendations
+## 🌟 Business Interpretation & Recommendations
 
 This project provides a predictive tool and actionable insights to reduce customer churn, focusing on high-risk segments for targeted intervention.
 
