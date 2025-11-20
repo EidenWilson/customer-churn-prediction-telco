@@ -25,7 +25,7 @@ The **High-Risk Customer Call List** table is the core tool for the Retention Te
 This visualization was created using Power BI to ensure maximum usability by non-technical stakeholders.
 
 <p align="center">
-  <img src="Screenshot 2025-11-20 213035" alt="Customer Retention Dashboard" width="100%">
+  <img src=""C:\Users\EIDEN W\OneDrive\Pictures\Screenshots\Screenshot 2025-11-20 213035.png"" alt="Customer Retention Dashboard" width="100%">
 </p>
 
 ---
